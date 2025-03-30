@@ -4,7 +4,7 @@ special right is given to TEAM TYP for educational purpose  */
 
 
 #include <iostream>
-#include <stdlib.h>
+#include <stdlib.h
 
 using namespace std;
 
